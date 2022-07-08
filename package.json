@@ -15,6 +15,7 @@
 		"ui.js"
 	],
 	"dependencies": {
+		"axios": "^0.27.2",
 		"import-jsx": "^4.0.1",
 		"ink": "^3.2.0",
 		"ink-big-text": "^1.2.0",

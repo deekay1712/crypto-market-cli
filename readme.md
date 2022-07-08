@@ -5,20 +5,20 @@ This is a simple npm package to get information about cryptocurrencies price. It
 ## Instructions
 
 ```
-$ npm install --global crypto-market
+$ npm install --global crypto-market-cli
 ```
 
 ## CLI
 
 ```
   Usage
-	  $ crypto-market
+	  $ crypto-market-cli
 
   Options
 	  --coins  "coins name separated by space"
 
   Examples
-	  $ crypto-market --coins="tenset bitcoin gala"
+	  $ crypto-market-cli --coins="tenset bitcoin gala"
 ```
 
 3. You're good to go! :rocket:

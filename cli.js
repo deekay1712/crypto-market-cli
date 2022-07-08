@@ -9,14 +9,13 @@ const ui = importJsx('./ui');
 
 const cli = meow(`
 	Usage
-	  $ crypto-market
+		$ crypto-market
 
 	Options
-		--name  Your name
+		--coins  "coins name separated by space"
 
 	Examples
-	  $ crypto-market --name=Jane
-	  Hello, Jane
+		$ crypto-market --coins="bitcoin polkadot ethereum"
 `);
 
 render(React.createElement(ui, cli.flags));

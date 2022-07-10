@@ -20,6 +20,9 @@ $ npm install --global crypto-market-cli
   Examples
 	  $ crypto-market-cli --coins="tenset bitcoin gala"
 ```
+## Screenshots
 
-3. You're good to go! :rocket:
+![ss1](https://user-images.githubusercontent.com/80641727/178135138-3a9fa67e-4544-4c88-bb96-295d9e009920.png)
+![ss2](https://user-images.githubusercontent.com/80641727/178135140-cbaf8262-d370-4978-9636-c79852b6dc9d.png)
 
+## You're good to go! :rocket:

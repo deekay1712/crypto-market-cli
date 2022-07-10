@@ -1,4 +1,4 @@
-# crypto-market
+# crypto-market-cli
 
 This is a simple npm package to get information about cryptocurrencies price. It uses the [CoinGecko](https://www.coingecko.com/en/api/documentation) API to get information.
 

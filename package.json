@@ -12,7 +12,8 @@
 	},
 	"files": [
 		"cli.js",
-		"ui.js"
+		"ui.js",
+		"./components/Table.js"
 	],
 	"dependencies": {
 		"axios": "^0.27.2",

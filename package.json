@@ -4,6 +4,17 @@
 	"license": "MIT",
 	"description": "Command line interface for crypto-market",
 	"bin": "cli.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/deekay1712/crypto-market-cli.git"
+	},
+	"author": "Dikshansh Kumar Lodhi <dikshansh1712@gmail.com>",
+	"keywords": [
+		"cryptocurriencies",
+		"crypto",
+		"market",
+		"cli"
+	],
 	"engines": {
 		"node": ">=10"
 	},

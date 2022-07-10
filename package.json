@@ -1,6 +1,6 @@
 {
 	"name": "crypto-market-cli",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"description": "Command line interface for crypto-market",
 	"bin": "cli.js",
